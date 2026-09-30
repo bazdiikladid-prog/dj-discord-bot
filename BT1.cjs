@@ -155,5 +155,4 @@ function playCleanLoop(player) {
 
 
 // حط التوكن متاعك هنا
-
-client.login("MTU1NDUwMTg1NDAxOTE5NDg4MA.GZ69t8.qfVEMsbn8D7PJdZUMO8LTVVC7_TI0agZxYmE1I");
+client.login(process.env.DISCORD_TOKEN);
