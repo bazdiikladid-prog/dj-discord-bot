@@ -24,7 +24,7 @@ const client = new Client({
 
 // ضع معرّفات الغرف الصوتية الأربع هنا
 const VERIFICATION_VC_IDS = [
-    "1505569518276186303", 
+    "1543447584910217226", 
     "ID_TA3_ROUM_2",       
     "ID_TA3_ROUM_3",       
     "ID_TA3_ROUM_4"        
